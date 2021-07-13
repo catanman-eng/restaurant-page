@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){const e=document.querySelector("#content"),t=document.createElement("header"),n=document.createElement("img"),c=document.createElement("h1");n.src="images/logo.png",n.classList.add("logo"),c.textContent="The Best Burgers In Town",t.appendChild(n),t.appendChild(c),e.appendChild(t)}()})();
